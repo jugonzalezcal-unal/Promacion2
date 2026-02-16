@@ -11,7 +11,7 @@ public class taller {
             return false;
         }
 
-        // Expresión regular que valida:
+        // Expresión regular que vaalid:
         // - Comienza con letra [a-zA-Z]
         // - Seguido de letras, dígitos o guiones bajos
         // - Longitud total entre 6 y 12 caracteres
