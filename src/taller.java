@@ -53,6 +53,6 @@ public class taller {
 
     public static void testUsername(String username) {
         boolean isValid = isValidUsername2(username);
-        System.out.println("Nombre de usuario: " + username + " - " + (isValid ? "Válido" : "Inválido"));
+        System.out.println("Nombre de usuarioo: " + username + " - " + (isValid ? "Válido" : "Inválido"));
     }
 }
